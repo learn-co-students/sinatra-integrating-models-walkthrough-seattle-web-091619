@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
+gem 'byebug'
 
 gem 'sinatra', '~> 2.0.2'
     gem 'rake'
